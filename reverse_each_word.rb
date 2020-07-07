@@ -9,5 +9,3 @@ def reverse_each_word(str)
   end
   backwards_str
 end
-
-reverse_each_word("Hello world")

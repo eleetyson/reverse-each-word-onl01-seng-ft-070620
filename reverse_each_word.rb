@@ -1,3 +1,5 @@
+require 'pry'
+
 def reverse_each_word(str)
   words_arr = str.split(" ")
   backwards_str = ""

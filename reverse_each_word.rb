@@ -5,3 +5,7 @@ def reverse_each_word(str)
   end
   words_arr.join(' ')
 end
+
+def reverse_each_word(str)
+  
+end

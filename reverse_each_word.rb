@@ -8,5 +8,5 @@ end
 
 def reverse_each_word(str)
   words_arr = str.split
-  
+  words_arr
 end
